@@ -1,0 +1,36 @@
+.container{
+    height: 3444px;
+    background-color: khaki;
+    border: 2px solid black;
+
+    
+}.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+
+.box1{
+    background-color: orange;
+    position: sticky;
+    top: 0px;
+}
+.box2{
+   
+    background-color: darkmagenta;
+    position: relative;
+    top: 120px;
+}
+.box3{
+   
+    background-color: aqua;
+    position: absolute;
+    top:120px;
+   
+}
+.box4{
+   
+    background-color: green;
+    position: fixed;
+    bottom: 30px;
+}
